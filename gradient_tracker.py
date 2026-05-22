@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.11
 import sys
-sys.path.insert(1, "/home/disha/realsense_setup/librealsense/build/wrappers/python")
+sys.path.insert(1, "")
 
 import pyrealsense2 as rs
 import numpy as np
